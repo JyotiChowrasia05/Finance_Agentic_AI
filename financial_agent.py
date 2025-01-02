@@ -42,19 +42,3 @@ multi_ai_agent = Agent(
 )
 
 multi_ai_agent.print_response('Summarize analyst recomendation and share the lastes new about NVDA',stream=True)
-
-## requirements.txt
-phidata
-yfinance
-packaging
-duckduckgo-search
-fastapi
-uvicorn
-groq
-python-dotenv
-openai
-
-## .env
-PHI_API_KEY= 'phi-zL6vpsJJH410KRwlb1Kvh_wK5LK2lBG2NzLm7merFGI'
-GROQ_API_KEY= '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'
-OPENAI_API_KEY= ''

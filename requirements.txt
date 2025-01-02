@@ -1,0 +1,11 @@
+
+## requirements.txt
+phidata
+yfinance
+packaging
+duckduckgo-search
+fastapi
+uvicorn
+groq
+python-dotenv
+openai
